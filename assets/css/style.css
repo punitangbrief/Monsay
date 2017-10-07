@@ -1,0 +1,84 @@
+		
+		
+		/* end of css for header */
+		#rmhsimg{
+			cursor:pointer;
+			height:125px; 
+			width:125px;
+			float:left;
+			margin:0px 25px 0px 0px;
+		}
+		
+		#rmhstitle{
+			font-size:28px;
+			font-family:helvetica;
+			float:left;
+			font-weight:bold;
+			margin:25px 0px 0px 0px;
+		}
+		
+		#rmhstitle2{
+			font-size:28px;
+			font-family:helvetica;
+			float:left;
+			margin:0px 0px 0px 0px;
+		}
+		
+		.allbtn{
+			background-color:#3366ff;
+			border: none;
+			color: white;
+			border-radius:4px;
+			padding: 5px 10px;
+			text-align: center;
+			text-decoration: bold;
+			display: inline-block;
+			font-size: 15px;
+			margin: 2px 1px;
+			cursor: pointer;
+		}
+		
+		.brandy{
+			font-weight:bold
+			font-family:helvetica;
+		}
+		
+		body{
+			margin:0;
+			padding:0;
+		}
+		
+		.nav{
+			margin:0;
+			padding:0;
+		}
+		
+		#asd2{
+			margin:-2px 0px 0px 0px;
+		}
+		
+		
+		#asd3{
+			color:white;
+			padding:12px 30px 10px;
+		}
+		
+		#asd3:hover{
+			color:white;
+			background-color:#3366ff;
+		}
+		
+		#dropbg:hover{
+			color:white;
+			background-color:#3366ff;
+		}
+	
+	/* end of css for header */
+		
+		
+	/* start of css for layer1(carousel) */
+		.car{
+			margin:0;
+			padding:0;
+		}
+	/* end of css for layer1(carousel) */
