@@ -1,8 +1,8 @@
 <body>
 	<!--start of header-->
+		<br/>
 		<div class="container-fluid"> 
 			<div class="row">
-			
 				<div class="col-md-1">
 				</div>
 				
@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		
-		</br>
+		<br/>
 			
 		<nav class="nav navbar navbar-expand-md navbar-dark" style="background-color:#262626;">
 			<div class="container">
@@ -36,35 +36,30 @@
 						<div class="collapse navbar-collapse" id="misnavbar">
 							<ul class="nav navbar-nav nav-fill mr-auto" id="asd2">
 								<li class="nav-item dropdown">
-									<a class="nav-link dropdown-toggle" id="asd3" id="dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Home</a>
-										<div class="dropdown-menu dropdown-backdrop" id="drop" aria-labelledby="dropdown1">
-											<a class="dropdown-item" id="dropbg" href="#">Action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Another action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Something else here</a>
-										</div>
+									<a class="nav-link" id="asd3" id="dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Home</a>
 								</li>
 								<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" id="asd3" id="dropdown2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">About Us</a>
 										<div class="dropdown-menu dropdown-backdrop aria-labelledby="dropdown2">
-											<a class="dropdown-item" id="dropbg" href="#">Action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Another action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Something else here</a>
+											<a class="dropdown-item" id="dropbg" href="#">Vision and Mission</a>
+											<a class="dropdown-item" id="dropbg" href="#">RMHS Hymn</a>
+											<a class="dropdown-item" id="dropbg" href="#">History</a>
 										</div>
 								</li>
 								<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" id="asd3" id="dropdown3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Academics</a>
 										<div class="dropdown-menu dropdown-backdrop aria-labelledby="dropdown3">
-											<a class="dropdown-item" id="dropbg" href="#">Action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Another action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Something else here</a>
+											<a class="dropdown-item" id="dropbg" href="#"></a>
+											<a class="dropdown-item" id="dropbg" href="#">Elementary</a>
+											<a class="dropdown-item" id="dropbg" href="#">Junior High School</a>
+											<a class="dropdown-item" id="dropbg" href="#">Senior High School</a>
 										</div>
 								</li>
 								<li class="nav-item dropdown">
-									<a class="nav-link dropdown-toggle" id="asd3" id="dropdown4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">News</a>
+									<a class="nav-link dropdown-toggle" id="asd3" id="dropdown4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Announcements</a>
 										<div class="dropdown-menu dropdown-backdrop aria-labelledby="dropdown4">
-											<a class="dropdown-item" id="dropbg" href="#">Action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Another action</a>
-											<a class="dropdown-item" id="dropbg" href="#">Something else here</a>
+											<a class="dropdown-item" id="dropbg" href="#">News</a>
+											<a class="dropdown-item" id="dropbg" href="#">Events</a>
 										</div>
 								</li>
 								<li class="nav-item dropdown">
@@ -111,4 +106,44 @@
 			</div>
 		</div>	
 	<!--end of layer 1(carousel)-->	
+		<br/>
+	<!--start of layer 2-->
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-1">
+				</div>				
+				<div class="col-md-10">
+					<!--<i class="fa fa-adjust"></i>-->
+					<p class="what">
+						What's Happening?
+					</p>
+					<p class="current">
+						Current events and happenings in RHMS
+					</p>
+				</div>
+				<div class="col-md-1">
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">			
+				<div class="col-md-4">
+					<img class="hapimg" src="images/blue.jpg"></img>
+					<p class="hapcap">Lorep Ipsum</p>
+				</div>
+				<div class="col-md-4">
+					<img class="hapimg" src="images/blue.jpg"></img>
+					<p class="hapcap">Lorep Ipsum</p>
+				</div>
+				<div class="col-md-4">
+					<img class="hapimg" src="images/blue.jpg"></img>
+					<p class="hapcap">Lorep Ipsum</p>
+				</div>
+			</div>
+		</div>
+	<!--end of layer 2-->
+	<br/>
+	<br/>
+	<br/>
+	
 </body>
