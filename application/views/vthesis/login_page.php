@@ -17,9 +17,36 @@
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/font-awesome.css');?>">
 	<!-- js bootstrap -->
 		<script src="<?php echo base_url('assets/js/bootstrap.min.js');?>"></script>
-	
+	<style >
+body{
+
+margin: 0 auto;
+background-repeat: no-repeat;
+background-size: 100%, 720px;
+height: 50px;
+
+
+}
+.container{
+
+	width: 500px;
+	height: 450px;
+	text-align: center;
+	background-color: rgba(52,73,94,0.7);
+	border-radius: 20px;
+	margin: 0 auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	}
+</style>
+
 </head>
-<body background="images/bg1.png" size="50%">
+<body background="images/bg1.png">
+
+
+
+
+
 
 <div class="container">
 	<img src="images/png1.png">
