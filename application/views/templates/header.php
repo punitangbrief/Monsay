@@ -11,11 +11,11 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 
 	<!-- css bootstrap -->
-		<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap.min.css');?>">
-		<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap-grid.min.css');?>">
-		<link rel="stylesheet" href="<?php echo base_url('assets/css/bootstrap-reboot.min.css');?>">
-		<link rel="stylesheet" href="<?php echo base_url('assets/css/style.css');?>">
-		
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/bootstrap.min.css');?>">
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/bootstrap-grid.min.css');?>">
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/bootstrap-reboot.min.css');?>">
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css');?>">
+        <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/font-awesome.min.css');?>">
 	
 	<!-- js bootstrap -->
 		<script src="<?php echo base_url('assets/js/bootstrap.min.js');?>"></script>
